@@ -1,0 +1,27 @@
+img {
+height: 300px;
+width: auto;
+display: block;
+margin: 0 auto;
+}
+
+a.homebutton {
+text-align: center;
+display: block;
+margin: 0 auto;
+width: fit-content;
+}
+
+.title {
+text-align: center;
+}
+
+.explanations {
+text-align: center;
+display: table;
+margin: 0 auto;
+}
+
+.explanations ol {
+text-align: left;
+}
